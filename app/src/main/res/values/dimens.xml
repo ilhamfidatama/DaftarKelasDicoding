@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_layout">150dp</dimen>
+    <dimen name="padding_layout_list">12dp</dimen>
+    <dimen name="margin_left_text">10dp</dimen>
+</resources>
